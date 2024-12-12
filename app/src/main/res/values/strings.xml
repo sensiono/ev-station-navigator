@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">first one</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="google_maps_key">AIzaSyAOVYRIgupAurZup5y1PRh8Ismb1A3lLao</string>
+    <string name="rating_format">Rating: %.1f</string>
+
+
+
+
+</resources>
